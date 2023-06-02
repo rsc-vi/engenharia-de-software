@@ -1,3 +1,2 @@
 # engenharia-de-software
-Adicionar trabalhos e atividades.
-de engenharia.
+# trabalho 1° Bimestre 
